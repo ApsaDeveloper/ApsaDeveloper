@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Hello I am Nishant Sharma
 I am a developer of website, mobile app(android) and android Dependency
 
-My Latest Dependency  Is   ``aLib``
+My Latest Dependency  Is   ``Toasty_toast``
 
 # How To Use My Dependency [![](https://jitpack.io/v/Apsanishant/aLib.svg)](https://jitpack.io/#Apsanishant/aLib)
 
