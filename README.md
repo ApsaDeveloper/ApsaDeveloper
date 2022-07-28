@@ -46,3 +46,12 @@ implementation 'com.github.Apsanishant:projectname:version'
 [![](https://jitpack.io/v/Apsanishant/aLib.svg)](https://jitpack.io/#Apsanishant/aLib)
 
 <meta name="google-site-verification" content="x6etFaysYnnngonXu0e9Oa_8236UxfpT3GvttOWmtj4" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PC3L60286F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PC3L60286F');
+</script>
