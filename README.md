@@ -44,3 +44,5 @@ implementation 'com.github.Apsanishant:projectname:version'
 
 
 [![](https://jitpack.io/v/Apsanishant/aLib.svg)](https://jitpack.io/#Apsanishant/aLib)
+
+<meta name="google-site-verification" content="x6etFaysYnnngonXu0e9Oa_8236UxfpT3GvttOWmtj4" />
