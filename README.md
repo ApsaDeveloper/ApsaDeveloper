@@ -1,10 +1,10 @@
 # Apsanishant [![](https://jitpack.io/v/Apsanishant/aLib.svg)](https://jitpack.io/#Apsanishant/aLib)
-- 👋 Hi, I’m @Apsanishant
+- 👋 Hi, I’m @ApsaDeveloper 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning to create a programming language 
 
 <!---
-Apsanishant/Apsanishant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ApsaDeveloper/ApsaDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
